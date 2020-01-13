@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700&display=swap");
+
 :root {
     --turkey: #fff0eb;
-    --white: white;
+    --dark: #111;
+    --light: #eee;
     --blue: blue;
 }
 
@@ -14,15 +17,15 @@ html,
 body {
     padding: 0;
     margin: 0;
-    font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont,
-        "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: "Source Serif Pro", serif;
 }
 
 body {
     display: grid;
     height: 100vh;
     grid-template-rows: auto 1fr auto;
-    background-color: var(--turkey);
+    background-color: var(--light);
+    color: var(--dark);
 }
 
 main {
@@ -37,7 +40,7 @@ code {
 
 a[href],
 a[href]:visited {
-    color: var(--blue);
+    color: var(--dark);
 }
 
 a[href]:not(:hover) {
@@ -114,7 +117,7 @@ article {
     margin-bottom: 1em;
     padding-bottom: 1em;
     border-bottom: 1px solid #eee;
-    border-bottom: 1px solid var(--white);
+    border-bottom: 1px solid var(--light);
 }
 
 main > section > article > * {
@@ -133,8 +136,8 @@ a[rel="tag"]:visited {
     padding: 0 0.5em;
     line-height: 2em;
     height: 2em;
-    border: 1px solid var(--white);
-    background-color: var(--white);
+    border: 1px solid var(--light);
+    background-color: var(--light);
     color: var(--blue);
     border-radius: 0.25em;
     text-decoration: none;
@@ -144,7 +147,7 @@ a[rel="tag"]:visited {
 a[rel="tag"]:hover {
     border: 1px solid var(--blue);
     background-color: var(--blue);
-    color: var(--white);
+    color: var(--light);
 }
 
 a[rel="tag"]:last-child {
@@ -179,7 +182,7 @@ textarea {
 button {
     border: 1px solid var(--blue);
     background-color: var(--blue);
-    color: var(--white);
+    color: var(--light);
     cursor: pointer;
 }
 
