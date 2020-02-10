@@ -12,7 +12,7 @@ tags:
 
 <insert image?> <br><br>
 
-Join us for a weekend of fun at Gardener Ranch in Carmel Valley, California from Friday, November 20th to Sunday, November 22nd 2020 <br><br>
+Join us for a weekend of celebration and fun at Gardener Ranch in Carmel Valley, California from Friday, November 20th to Sunday, November 22nd 2020 <br><br>
 
 **RSVP here** <br><br>
 
@@ -28,6 +28,10 @@ Everyone is invited to our rehearsal dinner - time TBD
 
 Wedding ceremony and reception - time TBD
 
+**Sunday, November 22nd**
+
+TBD - departures
+
 <br><br> **Where is Gardener Ranch?**
 
 114 W Carmel Valley Rd, Carmel Valley, CA 93924
@@ -36,9 +40,7 @@ Wedding ceremony and reception - time TBD
 
 <br><br>**Travel**
 
-The immediate family and the wedding party are invited to stay onsite with us at Gardener Ranch.  There will be more information to follow about this.
-
-For all others, we recommend Carmel Valley Lodge, but there are a couple others that would also meet you needs.
+The immediate family and the wedding party are invited to stay onsite at Gardener Ranch.  For all others, we recommend Carmel Valley Lodge.
 
 **Carmel Valley Lodge**
 
