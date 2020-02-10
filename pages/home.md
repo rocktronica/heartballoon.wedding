@@ -1,13 +1,14 @@
 ---
-title:
+title: Leia & Tommy
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
 tags:
   - nav
 ---
+![](/static/img/IMG_0119.jpg)
 
-# Leia <span>&</span> Tommy
+are getting married!
 
 Friday, November 20, 2020 - Sunday, November 22, 2020
 
