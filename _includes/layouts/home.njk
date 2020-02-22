@@ -1,6 +1,18 @@
 ---
 layout: layouts/base.njk
 ---
+<h1>{{ title }}</h1>
 
-<h1>not sure this is used but it should be!</h1>
-{{ layoutContent | safe }}
+{% for section in collections.sections %}
+    <section id="{{ section.data.id }}"
+            style="background-image: url({{ section.data['background-image'] }})">
+        <div class="inner">
+            {%- if (section.data.showTitle) -%}
+                <h2>
+                    <a href="#{{ section.data.id }}">{{ section.data.title }}</a>
+                </h2>
+            {%- endif -%}
+            {{ section.data.layoutContent | safe }}
+        </div>
+    </section>
+{% endfor %}
