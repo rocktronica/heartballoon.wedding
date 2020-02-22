@@ -12,7 +12,7 @@ const Page = createClass({
     const backgroundImage = entry.getIn(["data", "background-image"], null);
 
     return html`
-      <section style="background-image: url(${backgroundImage})">
+      <section style={}>
         ${showTitle &&
             '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
         }
