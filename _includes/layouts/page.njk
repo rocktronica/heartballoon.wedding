@@ -4,12 +4,10 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 
 {% for section in collections.sections %}
-    <section id="{ section.id }">
+    <section id="{{ section.data.id }}">
         <h3>
             {{ section.data.title }}
         </h3>
         {{ section.data.layoutContent | safe }}
     </section>
 {% endfor %}
-
-<!-- {{ layoutContent | safe }} -->

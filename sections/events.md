@@ -1,6 +1,7 @@
 ---
 title: Events
 date: 2012-01-01
+id: events
 ---
 
 ### Friday, November 20th
