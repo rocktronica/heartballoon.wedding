@@ -12,7 +12,7 @@ const Page = createClass({
     const backgroundImage = entry.getIn(["data", "background-image"], null);
 
     return html`
-      <section>
+      <section style={{ backgroundImage: 'url(${backgroundImage})' }}>
         <div className="inner">
             ${showTitle &&
                 '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
