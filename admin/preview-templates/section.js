@@ -9,7 +9,9 @@ const Page = createClass({
 
     return html`
       <main>
-        <h2>${entry.getIn(["data", "title"], null)}</h2>
+        ${${entry.getIn(["data", "showTitle"], false) &&
+            <h2>${entry.getIn(["data", "title"], null)}</h2>
+        }
 
         ${this.props.widgetFor("body")}
       </main>
