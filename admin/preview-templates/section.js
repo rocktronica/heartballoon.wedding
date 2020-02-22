@@ -12,12 +12,14 @@ const Page = createClass({
     const backgroundImage = entry.getIn(["data", "background-image"], null);
 
     return html`
-      <section style={}>
-        ${showTitle &&
-            '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
-        }
+      <section>
+        <div className="inner">
+            ${showTitle &&
+                '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
+            }
 
-        ${this.props.widgetFor("body")}
+            ${this.props.widgetFor("body")}
+        </div>
       </section>
     `;
   }
