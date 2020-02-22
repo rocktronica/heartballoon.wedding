@@ -4,8 +4,6 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
-
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
@@ -44,10 +42,10 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-  // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function(collection) {
+  // only content in the `sections/` directory
+  eleventyConfig.addCollection("sections", function(collection) {
     return collection.getAllSorted().filter(function(item) {
-      return item.inputPath.match(/^\.\/posts\//) !== null;
+      return item.inputPath.match(/^\.\/sections\//) !== null;
     });
   });
 

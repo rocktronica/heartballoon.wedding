@@ -29,13 +29,7 @@ body {
 }
 
 main {
-    max-width: 37.5em;
     margin: 0 auto;
-    text-align: right;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
 h1 {
@@ -137,48 +131,6 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
     font-weight: 700;
     text-decoration: underline;
-}
-
-/* Posts List */
-article {
-    margin-bottom: 1em;
-    padding-bottom: 1em;
-    border-bottom: 1px solid #eee;
-    border-bottom: 1px solid var(--light);
-}
-
-main > section > article > * {
-    margin-top: 0;
-    margin-bottom: 0.5em;
-}
-
-/* Post Tags */
-a[rel="tag"],
-a[rel="tag"]:visited {
-    display: inline-block;
-    vertical-align: text-top;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    font-size: 0.625em;
-    padding: 0 0.5em;
-    line-height: 2em;
-    height: 2em;
-    border: 1px solid var(--light);
-    background-color: var(--light);
-    color: var(--blue);
-    border-radius: 0.25em;
-    text-decoration: none;
-    margin: 0 0.5em 0.5em 0;
-}
-
-a[rel="tag"]:hover {
-    border: 1px solid var(--blue);
-    background-color: var(--blue);
-    color: var(--light);
-}
-
-a[rel="tag"]:last-child {
-    margin-right: 0;
 }
 
 /* Contact Form */
