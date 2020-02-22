@@ -1,6 +1,6 @@
 ---
 title: RSVP
-date: 2011-01-01
+order: 1
 id: rsvp
 showTitle: true
 ---

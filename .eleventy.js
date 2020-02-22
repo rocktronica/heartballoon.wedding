@@ -44,9 +44,12 @@ module.exports = function(eleventyConfig) {
 
   // only content in the `sections/` directory
   eleventyConfig.addCollection("sections", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
-      return item.inputPath.match(/^\.\/sections\//) !== null;
-    });
+    return collection
+      .getAll()
+      .filter(function(item) {
+        return item.inputPath.match(/^\.\/sections\//) !== null;
+      })
+      .sort((a, b) => a.data.order - b.data.order);
   });
 
   // Don't process folders with static assets e.g. images

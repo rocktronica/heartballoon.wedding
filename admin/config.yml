@@ -15,8 +15,29 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "ID", name: "id", hint: "Used for navigation", widget: "string" }
-      - { label: "Publish Date", hint: "Not displayed, hack to order sections", name: "date", widget: "datetime" }
-      - { label: "Show Title", name: "showTitle", hint: "Whether or not to show title at top of section", widget: "boolean", default: true }
+      - {
+          label: "ID",
+          name: "id",
+          hint: "Used for navigation",
+          widget: "string",
+        }
+      - {
+          label: "Order",
+          hint: "Display order",
+          name: "date",
+          widget: "datetime",
+        }
+      - {
+          label: "Show Title",
+          name: "showTitle",
+          hint: "Whether or not to show title at top of section",
+          widget: "boolean",
+          default: true,
+        }
+      - {
+          label: "Background Image",
+          name: "background-image",
+          widget: "image",
+          default: "",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {label: "Background Image", name: "background-image", widget: "image", default: "" }
