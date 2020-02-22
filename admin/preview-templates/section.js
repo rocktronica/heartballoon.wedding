@@ -17,7 +17,7 @@ const Page = createClass({
     return html`
       <section style=${{...style}}>
         <div className="inner">
-            <h2>${showTitle && title}</h2>
+            <h2>${title}</h2>
             ${this.props.widgetFor("body")}
         </div>
       </section>
