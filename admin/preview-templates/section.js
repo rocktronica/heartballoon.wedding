@@ -15,7 +15,7 @@ const Page = createClass({
     };
 
     return html`
-      <section style={${style}}>
+      <section style=${style}>
         <div className="inner">
             ${showTitle &&
                 '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
