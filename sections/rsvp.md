@@ -3,8 +3,7 @@ title: RSVP
 order: 1
 id: rsvp
 showTitle: true
+showForm: true
 ---
 
-RSVP here
-
-FORM
+Répondez s'il vous plaît!

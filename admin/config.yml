@@ -35,6 +35,13 @@ collections:
           default: true,
         }
       - {
+          label: "Show Form",
+          name: "showForm",
+          hint: "Whether or not to show RSVP form",
+          widget: "boolean",
+          default: false,
+        }
+      - {
           label: "Background Image",
           name: "background-image",
           widget: "image",

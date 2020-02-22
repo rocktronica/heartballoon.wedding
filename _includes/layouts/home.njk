@@ -13,6 +13,9 @@ layout: layouts/base.njk
                 </h2>
             {%- endif -%}
             {{ section.data.layoutContent | safe }}
+            {%- if (section.data.showForm) -%}
+                {% include "components/form.njk" %}
+            {%- endif -%}
         </div>
     </section>
 {% endfor %}
