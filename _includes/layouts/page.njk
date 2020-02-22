@@ -5,9 +5,11 @@ layout: layouts/base.njk
 
 {% for section in collections.sections %}
     <section id="{{ section.data.id }}">
-        <h2>
-            {{ section.data.title }}
-        </h2>
+        {%- if (section.data.showTitle) -%}
+            <h2>
+                {{ section.data.title }}
+            </h2>
+        {%- endif -%}
         {{ section.data.layoutContent | safe }}
     </section>
 {% endfor %}

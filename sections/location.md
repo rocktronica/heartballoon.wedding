@@ -2,6 +2,7 @@
 title: Location
 date: 2013-01-01
 id: location
+showTitle: true
 ---
 
 ### Where is Gardener Ranch?
