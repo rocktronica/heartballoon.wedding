@@ -1,6 +1,6 @@
-import Page from "/admin/preview-templates/page.js";
+import Section from "/admin/preview-templates/section.js";
 
-CMS.registerPreviewTemplate("pages", Page);
+CMS.registerPreviewTemplate("sections", Section);
 
 CMS.registerPreviewStyle("/_includes/assets/css/inline.css");
 // Register any CSS file on the home page as a preview style

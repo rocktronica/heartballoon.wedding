@@ -9,7 +9,7 @@ const Page = createClass({
 
     return html`
       <main>
-        <h1>${entry.getIn(["data", "title"], null)}</h1>
+        <h3>${entry.getIn(["data", "title"], null)}</h3>
 
         ${this.props.widgetFor("body")}
       </main>
