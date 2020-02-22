@@ -9,10 +9,13 @@ const Page = createClass({
 
     const showTitle = entry.getIn(["data", "showTitle"], false);
     const title = entry.getIn(["data", "title"], null);
-    const backgroundImage = entry.getIn(["data", "background-image"], null);
+    const style = {
+        backgroundImage:
+            `url(${entry.getIn(["data", "background-image"], null)})`
+    };
 
     return html`
-      <section style={{ backgroundImage: 'url(${backgroundImage})' }}>
+      <section style={${style}}>
         <div className="inner">
             ${showTitle &&
                 '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
