@@ -31,6 +31,9 @@ body {
 section {
     min-height: 100vh;
     padding: 40px;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 section:nth-child(odd) {

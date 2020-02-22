@@ -7,14 +7,18 @@ const Page = createClass({
   render() {
     const entry = this.props.entry;
 
+    const showTitle = entry.getIn(["data", "showTitle"], false);
+    const title = entry.getIn(["data", "title"], null);
+    const backgroundImage = entry.getIn(["data", "background-image"], null);
+
     return html`
-      <main>
-        ${entry.getIn(["data", "showTitle"], false) &&
-            <h2>${entry.getIn(["data", "title"], null)}</h2>
+      <section style="background-image: url(${backgroundImage})">
+        ${showTitle &&
+            '<h2>' + entry.getIn(["data", "title"], null) + '</h2>'
         }
 
         ${this.props.widgetFor("body")}
-      </main>
+      </section>
     `;
   }
 });

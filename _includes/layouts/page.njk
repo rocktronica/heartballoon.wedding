@@ -4,7 +4,8 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 
 {% for section in collections.sections %}
-    <section id="{{ section.data.id }}">
+    <section id="{{ section.data.id }}"
+            style="background-image: url({{ section.data['background-image'] }})">
         {%- if (section.data.showTitle) -%}
             <h2>
                 {{ section.data.title }}
