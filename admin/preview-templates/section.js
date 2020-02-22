@@ -9,7 +9,7 @@ const Page = createClass({
 
     return html`
       <main>
-        ${${entry.getIn(["data", "showTitle"], false) &&
+        ${entry.getIn(["data", "showTitle"], false) &&
             <h2>${entry.getIn(["data", "title"], null)}</h2>
         }
 
