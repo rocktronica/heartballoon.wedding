@@ -54,6 +54,10 @@ section#header .inner {
     mix-blend-mode: hard-light;
 }
 
+section#events li {
+    margin-bottom: 1rem;
+}
+
 section .inner {
     margin: 40px;
 }

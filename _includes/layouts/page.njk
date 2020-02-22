@@ -9,7 +9,7 @@ layout: layouts/base.njk
         <div class="inner">
             {%- if (section.data.showTitle) -%}
                 <h2>
-                    {{ section.data.title }}
+                    <a href="#{{ section.data.id }}">{{ section.data.title }}</a>
                 </h2>
             {%- endif -%}
             {{ section.data.layoutContent | safe }}

@@ -5,16 +5,10 @@ id: events
 showTitle: true
 ---
 
-### Friday, November 20th
-
+1. **Friday, November 20th**
 Possibly something during the day
-
 Everyone is invited to our rehearsal dinner - time TBD
-
-### Saturday, November 21st
-
+1. **Saturday, November 21st**
 Wedding ceremony and reception - time TBD
-
-### Sunday, November 22nd
-
+1. **Sunday, November 22nd**
 TBD - departures
