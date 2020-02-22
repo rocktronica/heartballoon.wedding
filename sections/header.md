@@ -1,7 +1,9 @@
 ---
 title: Header
-date: 2010-01-01
+id: header
+date: 2010-01-01T00:00:00.000Z
 showTitle: false
+background-image: /static/img/header-background.jpg
 ---
 
 # Leia <span>&</span> Tommy
