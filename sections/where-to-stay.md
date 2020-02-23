@@ -7,6 +7,8 @@ showForm: false
 background-image: >-
   /static/img/Gardener-Ranch-Carmel-Valley-CA-a617e254-864c-4f37-bef8-3db5a2f7838c-97450e389c42885476f1fbe9bc5bca5a.jpg
 ---
+<iframe src="https://www.google.com/maps/d/embed?mid=14q8eMzZWvkXJdxF6iSPgz1wd3Rtvcvw4&hl=en&z=15" width="640" height="480"></iframe>
+
 ### Gardener Ranch
 
 If you are immediate family or in the wedding party, you are invited to stay onsite at [Gardener Ranch](https://www.gardenerranch.com/weddings-accommodations.htm).  Once you RSVP, we will reach out to you with more information about lodging.
@@ -22,10 +24,6 @@ For anyone who's not staying onsite, we recommend [Carmel Valley Lodge](https://
 ### Blue Sky Lodge
 
 [Blue Sky Lodge](https://blueskylodge.com/) is 1 mile down the street from Gardener Ranch, but we have not viewed the space personally.
-
-### Map
-
-<iframe src="https://www.google.com/maps/d/embed?mid=14q8eMzZWvkXJdxF6iSPgz1wd3Rtvcvw4&hl=en" width="640" height="480"></iframe>
 
 ### Don't Drink and Drive
 
