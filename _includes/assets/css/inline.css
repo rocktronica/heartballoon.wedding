@@ -55,8 +55,6 @@ a[visited]:hover {
 section {
   min-height: 100vh;
   overflow: hidden;
-  background-position: center center;
-  background-size: cover;
   /* background-image: url(/static/img/header-background.jpg), linear-gradient(0deg, rgb(49, 33, 60) 0%, rgb(210, 38, 38) 50%, rgb(0, 0, 0) 100%); */
   /* background-blend-mode: screen; */
 }
