@@ -19,7 +19,7 @@ background-image: >-
 
 ### 1. Gardener Ranch
 
-If you are immediate family or in the wedding party, you are invited to stay onsite at **[Gardener Ranch](https://www.gardenerranch.com/weddings-accommodations.htm)**.  Once you RSVP, we will reach out to you with more information about lodging.
+The immediate family and wedding party are invited to stay onsite at **[Gardener Ranch](https://www.gardenerranch.com/weddings-accommodations.htm)**.  Once you RSVP, we will reach out to you with more information about lodging.
 
 ### 2. Carmel Valley Lodge
 
