@@ -5,7 +5,7 @@ order: 3
 showTitle: true
 background-image: /static/img/blue-sky-tree.jpg
 ---
-### Where is Gardener Ranch?
+# Gardener Ranch
 
 ![](/static/img/Screen Shot 2020-02-23 at 1.50.10 PM.png)
 
