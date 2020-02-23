@@ -27,11 +27,11 @@ For anyone who's not staying onsite, we recommend **[Carmel Valley Lodge](https:
 
 ### 3. Hidden Valley Inn
 
-**[Hidden Valley Inn](https://visithiddenvalleyinn.com/)** is a Bed and Breakfast on the same street as Gardener Ranch with good reviews, but we have not viewed the space personally.
+**[Hidden Valley Inn](https://visithiddenvalleyinn.com/)** is a Bed and Breakfast on the same street as Gardener Ranch with good reviews.  We have not viewed the space personally.
 
 ### 4. Blue Sky Lodge
 
-**[Blue Sky Lodge](https://blueskylodge.com/)** is 1 mile down the street from Gardener Ranch, but we have not viewed the space personally.
+**[Blue Sky Lodge](https://blueskylodge.com/)** is 1 mile down the street from Gardener Ranch.  We have not viewed the space personally.
 
 ### 💡Don't Drink and Drive
 
