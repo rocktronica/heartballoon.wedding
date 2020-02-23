@@ -1,7 +1,7 @@
 ---
 title: Lodging
 id: Lodging
-order: 2
+order: 5
 showTitle: true
 showForm: false
 background-image: >-
