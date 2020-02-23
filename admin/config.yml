@@ -14,18 +14,24 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Title",
+          name: "title", widget: "string",
+          required: true,
+      }
       - {
           label: "ID",
           name: "id",
           hint: "Used for navigation",
           widget: "string",
+          required: true,
         }
       - {
           label: "Order",
           hint: "Display order",
           name: "order",
           widget: "number",
+          required: true,
         }
       - {
           label: "Show Title",
@@ -33,6 +39,7 @@ collections:
           hint: "Whether or not to show title at top of section",
           widget: "boolean",
           default: true,
+          required: false,
         }
       - {
           label: "Show Form",
