@@ -1,9 +1,9 @@
 ---
 title: Location
 id: location
-date: 2020-02-23T00:53:45.187Z
+order: 3
 showTitle: true
-background-image: /static/img/header-background.jpg
+background-image: /static/img/blue-sky-tree.jpg
 ---
 
 ### Where is Gardener Ranch?

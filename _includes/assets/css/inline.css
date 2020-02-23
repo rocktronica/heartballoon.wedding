@@ -15,8 +15,9 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Source Serif Pro", serif;
-  /* color: var(--dark); */
+  color: var(--dark);
   background-color: var(--light);
+  text-shadow: 0 1px white, 0 5px 10px rgba(255,255,255,.25);
 }
 
 p,
@@ -47,7 +48,7 @@ a {
 a:hover,
 a[visited]:hover {
     text-decoration: none;
-    color: var(--dark-pop);
+    color: inherit;
 }
 
 /* LAYOUT */
@@ -57,19 +58,22 @@ section {
   overflow: hidden;
   /* background-image: url(/static/img/header-background.jpg), linear-gradient(0deg, rgb(49, 33, 60) 0%, rgb(210, 38, 38) 50%, rgb(0, 0, 0) 100%); */
   /* background-blend-mode: screen; */
+
+  display: flex;
 }
 
 section .inner {
   margin: 40px;
   padding: 40px;
+  min-width: 600px;
   max-width: max(60vw, 700px);
-  background: rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.75);
   border-radius: 5px;
-  mix-blend-mode: hard-light;
 }
 
 section:nth-child(odd) {
-  background: var(--alt-light);
+    align-items: flex-end;
+    justify-content: flex-end;
 }
 
 section h2 {
@@ -82,12 +86,6 @@ section .inner > p:last-child {
 
 /* HEADER */
 
-section#header {
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-end;
-}
-
 section#header .inner {
   padding: 40px;
   font-size: max(120px, 12vw);
@@ -97,6 +95,7 @@ section#header .inner {
   mix-blend-mode: hard-light;
   text-align: right;
   color: #000;
+  mix-blend-mode: hard-light;
 }
 
 section#header h1 {
@@ -108,8 +107,6 @@ section#header h1 {
 }
 
 section#header h2 {
-  font-size: 2rem;
-  font-weight: 700;
   font-style: italic;
 }
 

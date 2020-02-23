@@ -8,7 +8,7 @@ background-image: /static/img/header-background.jpg
 
 # Leia <span>&</span> Tommy
 
-## ...are getting married and you're invited!
+### ...are getting married and you're invited!
 
 Join us for a weekend of celebration and fun
 at Gardener Ranch in Carmel Valley, California
