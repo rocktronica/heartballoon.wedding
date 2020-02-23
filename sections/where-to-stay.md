@@ -1,5 +1,5 @@
 ---
-title: Where to stay?
+title: Lodging
 id: Lodging
 order: 2
 showTitle: true
