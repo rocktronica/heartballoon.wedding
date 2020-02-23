@@ -24,8 +24,8 @@ collections:
       - {
           label: "Order",
           hint: "Display order",
-          name: "date",
-          widget: "datetime",
+          name: "order",
+          widget: "number",
         }
       - {
           label: "Show Title",
