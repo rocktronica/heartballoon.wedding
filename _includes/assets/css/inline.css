@@ -1,8 +1,7 @@
 :root {
-  --dark: #1d1913;
-  --dark-pop: #865a20;
-  --light: #e0ddd6;
-  --alt-light: #ece8e0;
+  --text: #1d1913;
+  --link: #FF3915;
+  --background: #e0ddd6;
 }
 
 *,
@@ -15,9 +14,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Source Serif Pro", serif;
-  color: var(--dark);
-  background-color: var(--light);
-  text-shadow: 0 1px white, 0 5px 10px rgba(255,255,255,.25);
+  color: var(--text);
+  background-color: var(--background);
 }
 
 p,
@@ -42,7 +40,11 @@ iframe {
 }
 
 a {
-    color: var(--dark);
+    color: var(--link);
+}
+
+h2 a {
+    color: inherit;
 }
 
 a:hover,
@@ -90,7 +92,6 @@ section#header .inner {
   font-size: max(120px, 12vw);
   max-width: max(60vw, 700px);
   border-radius: 5px;
-  mix-blend-mode: hard-light;
   text-align: right;
   color: #000;
   mix-blend-mode: hard-light;
