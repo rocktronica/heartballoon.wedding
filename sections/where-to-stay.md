@@ -6,6 +6,9 @@ showTitle: true
 showForm: false
 background-image: >-
   /static/img/Gardener-Ranch-Carmel-Valley-CA-a617e254-864c-4f37-bef8-3db5a2f7838c-97450e389c42885476f1fbe9bc5bca5a.jpg
+overlay:
+  opacity: 75
+  blur: 5
 ---
 <div style="width: 100%; overflow: hidden; height: 300px;">
   <iframe 

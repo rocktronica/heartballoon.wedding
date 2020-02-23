@@ -67,7 +67,6 @@ section .inner {
   padding: 40px;
   min-width: 600px;
   max-width: max(60vw, 700px);
-  background: rgba(255, 255, 255, 0.75);
   border-radius: 5px;
 }
 
@@ -90,7 +89,6 @@ section#header .inner {
   padding: 40px;
   font-size: max(120px, 12vw);
   max-width: max(60vw, 700px);
-  background: rgba(255, 255, 255, 0.33);
   border-radius: 5px;
   mix-blend-mode: hard-light;
   text-align: right;

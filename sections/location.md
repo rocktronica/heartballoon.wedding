@@ -4,6 +4,9 @@ id: location
 order: 3
 showTitle: true
 background-image: /static/img/blue-sky-tree.jpg
+overlay:
+    opacity: 75
+    blur: 10
 ---
 ### Gardener Ranch in Carmel Valley, California
 

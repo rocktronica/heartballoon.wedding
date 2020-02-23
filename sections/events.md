@@ -4,6 +4,9 @@ id: events
 order: 2
 showTitle: true
 background-image: /static/img/IMG_0119.jpg
+overlay:
+    opacity: 75
+    blur: 5
 ---
 ### **Friday, November 20th**
 

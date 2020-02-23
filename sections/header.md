@@ -4,6 +4,9 @@ id: header
 order: 0
 showTitle: false
 background-image: /static/img/header-background.jpg
+overlay:
+    opacity: 33
+    blur: 1
 ---
 # Leia <span>&</span> Tommy
 

@@ -47,5 +47,37 @@ collections:
           name: "background-image",
           widget: "image",
           default: "",
+          required: false,
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Overlay",
+          name: "overlay",
+          widget: "object",
+          required: false,
+          default: {
+              opacity: 33,
+              blur: 0,
+          }
+          fields:
+              - {
+                    label: "Opacity %",
+                    name: "opacity",
+                    widget: number,
+                    min: 0,
+                    max: 100,
+                    default: 33
+                }
+              - {
+                    label: "Blur",
+                    name: "blur",
+                    widget: number,
+                    min: 0,
+                    max: 10,
+                    default: 0
+                }
+        }
+      - {
+          label: "Body",
+          name: "body",
+          widget: "markdown"
+        }
