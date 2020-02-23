@@ -40,6 +40,7 @@ collections:
           hint: "Whether or not to show RSVP form",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - {
           label: "Background Image",
