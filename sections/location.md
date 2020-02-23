@@ -9,7 +9,7 @@ background-image: /static/img/blue-sky-tree.jpg
 
 114 W Carmel Valley Rd, Carmel Valley, CA 93924
 
-![](/static/img/Screen Shot 2020-02-23 at 1.44.59 PM.png)
+![114 W Carmel Valley Rd, Carmel Valley, CA 93924](/static/img/Screen Shot 2020-02-23 at 1.44.59 PM.png)
 
 ### Travel
 
