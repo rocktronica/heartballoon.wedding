@@ -23,7 +23,7 @@ The immediate family and wedding party are invited to stay onsite at **[Gardener
 
 ### 2. Carmel Valley Lodge
 
-For anyone who's not staying onsite, we recommend **[Carmel Valley Lodge](https://www.valleylodge.com/?utm_source=google&utm_medium=GMB)**.  Carmel Valley Lodge is located across the street from Gardener Ranch and has been recently renovated.
+For anyone who's not staying onsite, we recommend **[Carmel Valley Lodge](https://www.valleylodge.com/?utm_source=google&utm_medium=GMB)**.  Carmel Valley Lodge is located across the street from Gardener Ranch and has been renovated recently.
 
 ### 3. Hidden Valley Inn
 
