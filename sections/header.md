@@ -9,6 +9,7 @@ background-image: /static/img/header-background.jpg
 
 ### ...are getting married and you're invited!
 
-Join us for a weekend of celebration and fun <br> at Gardener Ranch in Carmel Valley, California
+Join us for a weekend of celebration and fun at  
+Gardener Ranch in Carmel Valley, California
 
 Friday, November 20th to Sunday, November 22nd 2020
