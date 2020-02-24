@@ -4,7 +4,8 @@
 	{% include "components/head.njk" %}
 
 	<body>
-		<main>
+		{% include "components/password-modal.njk" %}
+		<main id="main">
 			{{ layoutContent | safe }}
 		</main>
 	</body>

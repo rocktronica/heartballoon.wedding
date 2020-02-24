@@ -1,13 +1,17 @@
 :root {
   --text: #1d1913;
   --link: #c0321f;
-  --background: #e0ddd6;
+  --background: #cc993d;
 }
 
 *,
 *:before,
 *:after {
   box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -95,6 +99,33 @@ section h2 {
 
 section .inner > p:last-child {
     margin-bottom: 0;
+}
+
+/* PASSWORD MODAL */
+
+#main {
+    display: none;
+}
+
+.password-modal {
+    display: block;
+    background-color: var(--background);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+}
+
+.password-modal:not(.invalid) .alert {
+    display: none;
+}
+
+.password-modal .modal-content {
+    padding: 40px;
+}
+
+.password-modal input {
+    font-size: 40px;
+    height: unset;
 }
 
 /* HEADER */
