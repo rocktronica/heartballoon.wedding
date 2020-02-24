@@ -17,7 +17,7 @@ const Page = createClass({
         background: `rgba(255, 255, 255, ${
             (entry.getIn(["data", "overlay", "opacity"], 50) / 100)
         }%`,
-        backdrop-filter: `blur(${entry.getIn(["data", "overlay", "blur"], 0)}px)`
+        backdropFilter: `blur(${entry.getIn(["data", "overlay", "blur"], 0)}px)`
     }
 
     return html`
