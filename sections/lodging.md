@@ -6,14 +6,18 @@ showTitle: true
 showForm: false
 background-image: /static/img/blue-sky-tree.jpg
 overlay:
-  opacity: 75
   blur: 5
+  opacity: 75
 ---
 [![Lodging options](/static/img/map-lodging.png)](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=14q8eMzZWvkXJdxF6iSPgz1wd3Rtvcvw4&ll=36.481244851622705%2C-121.73278595&z=16)
 
 ### 1. Gardener Ranch
 
 The immediate family and wedding party are invited to stay onsite at [Gardener Ranch](https://www.gardenerranch.com/weddings-accommodations.htm).  Once you RSVP, we will reach out to you with more information about lodging.
+
+Friday, November 21st 3:00 pm - 🏡Check-In  
+Sunday, November 23rd 12:00 pm - 👋Check-Out
+
 
 ### 2. Carmel Valley Lodge
 
