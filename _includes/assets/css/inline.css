@@ -121,6 +121,12 @@ section#header p {
     font-size: max(18px, 2vw);
 }
 
+/* RSVP */
+
+label + .checkbox {
+    margin-top: 0;
+}
+
 /* EVENTS */
 
 section#events li {
