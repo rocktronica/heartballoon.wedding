@@ -9,14 +9,20 @@ const Page = createClass({
 
     const showTitle = entry.getIn(["data", "showTitle"], false);
     const title = entry.getIn(["data", "title"], null);
-    const style = {
+    const sectionStyle = {
         backgroundImage:
             `url(${entry.getIn(["data", "background-image"], null)})`
     };
+    const overlayStyle = {
+        background: `rgba(255, 255, 255, ${
+            (entry.getIn(["data", "overlay", "opacity"], 50) / 100)
+        }%`,
+        backdrop-filter: `blur(${entry.getIn(["data", "overlay", "blur"], 0)}px)`
+    }
 
     return html`
-      <section style=${{...style}}>
-        <div className="inner">
+      <section style=${{...sectionStyle}}>
+        <div className="inner" style=${{...overlayStyle}}>
             <h2>${title}</h2>
             ${this.props.widgetFor("body")}
         </div>
