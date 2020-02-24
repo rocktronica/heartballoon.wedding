@@ -39,7 +39,7 @@ The theme is outdoor formal.  We would like you to dress up, but are happy with 
 
 ### Is there parking at Gardener Ranch?
 
-Yes, there is plenty of parking onsite, but only guests are supposed to leave their cars there overnight.
+Yes, there is plenty of parking onsite, but only guests are supposed to leave their cars there overnight.  🚗
 
 ### Can we walk from Gardner Ranch at night?
 
