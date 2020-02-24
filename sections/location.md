@@ -18,4 +18,4 @@ All of the events will be hosted by Gardener Ranch, except wine tasting.  The wi
 
 ### Weather
 
-![](/static/img/Screen Shot 2020-02-23 at 5.13.28 PM.png)
+![](/static/img/Screen Shot 2020-02-23 at 5.13.28 PM.jpg)
