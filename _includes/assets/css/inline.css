@@ -79,6 +79,15 @@ section .inner {
   border-radius: 5px;
 }
 
+section .inner:empty {
+    display: none;
+}
+
+section:nth-child(even) {
+    align-items: flex-start;
+    justify-content: left;
+}
+
 section:nth-child(odd) {
     align-items: flex-end;
     justify-content: flex-end;
