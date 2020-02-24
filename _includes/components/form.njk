@@ -5,61 +5,73 @@
             type="text"
             name="name"
             id="name"
-            autocomplete="name"
-            placeholder="Your name"
-            title="Please enter your name"
+            placeholder="Your first and last name"
             class="form-control"
             required />
     </div>
+
     <div class="form-group">
         <label for="email">Email</label>
         <input type="email"
             name="email"
             id="email"
-            autocomplete="email"
             placeholder="Your email address"
             class="form-control"
             required />
     </div>
+
     <div class="form-group">
-        <label for="message">Who all will be attending?</label>
+        <label for="attendees">Who will be attending?</label>
         <textarea
-            name="message"
-            id="message"
+            name="attendees"
+            id="attendees"
             placeholder="List of attendees, including yourself"
             rows="3"
             class="form-control"
             required></textarea>
     </div>
-    <label>How long do you think you'll be staying?</label>
+
+    <label>Which events are you thinking about going to?</label>
     <div class="checkbox">
         <label>
-            <input type="checkbox" name="friday_night" />
-            Friday night
+            <input type="checkbox" />
+            Friday wine tasting
         </label>
     </div>
     <div class="checkbox">
         <label>
-            <input type="checkbox" name="saturday_morning" />
-            Saturday morning
+            <input type="checkbox" name="friday dinner" />
+            Friday dinner
         </label>
     </div>
     <div class="checkbox">
         <label>
-            <input type="checkbox" name="satuday_evening" checked disabled />
-            Satuday evening
+            <input type="checkbox" name="satuday ceremony and dinner" checked disabled />
+            Satuday ceremony, reception, and dinner
         </label>
     </div>
     <div class="checkbox">
         <label>
-            <input type="checkbox" name="sunday_morning" />
-            Sunday morning
+            <input type="checkbox" name="sunday brunch" />
+            Sunday morning brunch
         </label>
     </div>
+
+    <div class="form-group">
+        <label for="message">Anything else we need to know?</label>
+        <textarea
+            name="message"
+            id="message"
+            rows="4"
+            class="form-control"
+            required></textarea>
+    </div>
+
     <button
             type="submit"
             name="submit"
             class="btn btn-default">
-        Send Message
+        Répondez s'il vous plaît!
+        (French for "RSVP")
     </button>
 </form>

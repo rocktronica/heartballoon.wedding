@@ -10,4 +10,4 @@ overlay:
     blur: 5
 ---
 
-Répondez s'il vous plaît!
+Let us know if you'll be joining us!
