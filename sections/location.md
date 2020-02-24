@@ -5,8 +5,8 @@ order: 3
 showTitle: true
 background-image: /static/img/blue-sky-tree.jpg
 overlay:
-    opacity: 75
-    blur: 10
+  blur: 10
+  opacity: 75
 ---
 ### Gardener Ranch in Carmel Valley, California
 
@@ -15,3 +15,7 @@ overlay:
 All of the events will be hosted by Gardener Ranch, except wine tasting.  The wine tasting party will meet at Gardener Ranch and depending on how many people are interested we'll either walk or take a trolly to nearby wine tasting rooms in Carmel Valley.
 
 [![Gardener Ranch: 114 W Carmel Valley Rd, Carmel Valley, CA 93924](/static/img/map-gardener-ranch.png)](https://maps.google.com/maps?ll=36.483721,-121.738113&z=9&t=m&hl=en&gl=US&mapclient=embed&cid=679779841121404225)
+
+### Weather
+
+![](/static/img/Screen Shot 2020-02-23 at 5.13.28 PM.png)
