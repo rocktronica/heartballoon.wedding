@@ -8,5 +8,8 @@
 			{{ layoutContent | safe }}
 		</main>
 	</body>
-
+    {% set js %}
+      {% include "assets/js/inline.js" %}
+    {% endset %}
+    <script>{{ js | jsmin | safe }}</script>
 </html>

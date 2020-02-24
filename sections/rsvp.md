@@ -9,5 +9,3 @@ overlay:
     opacity: 75
     blur: 5
 ---
-
-Let us know if you'll be joining us!

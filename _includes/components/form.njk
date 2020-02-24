@@ -1,60 +1,73 @@
 <form name="contact" method="POST" netlify>
-    <div class="form-group">
-        <label for="name">Name</label>
-        <input
-            type="text"
-            name="name"
-            id="name"
-            placeholder="Your first and last name"
-            class="form-control"
-            required />
+    <label>Will you be joining us?</label>
+    <div class="radio">
+        <label>
+            <input type="radio" class="attending_input" name="attending" value="yes">
+            "Yes!"
+        </label>
+    </div>
+    <div class="radio">
+        <label>
+            <input type="radio" class="attending_input" name="attending" value="no">
+            "I regret to inform you that I will be unable to attend."
+        </label>
     </div>
 
-    <div class="form-group">
-        <label for="email">Email</label>
-        <input type="email"
-            name="email"
-            id="email"
-            placeholder="Your email address"
-            class="form-control"
-            required />
-    </div>
+    <div id="show_only_if_attending">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input
+                type="text"
+                name="name"
+                id="name"
+                placeholder="Your first and last name"
+                class="form-control" />
+        </div>
 
-    <div class="form-group">
-        <label for="attendees">Who will be attending?</label>
-        <textarea
-            name="attendees"
-            id="attendees"
-            placeholder="List of attendees, including yourself"
-            rows="3"
-            class="form-control"
-            required></textarea>
-    </div>
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email"
+                name="email"
+                id="email"
+                placeholder="Your email address"
+                class="form-control" />
+        </div>
 
-    <label>Which events are you thinking about going to?</label>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox" />
-            Friday wine tasting
-        </label>
-    </div>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox" name="friday dinner" />
-            Friday dinner
-        </label>
-    </div>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox" name="satuday ceremony and dinner" checked disabled />
-            Satuday ceremony, reception, and dinner
-        </label>
-    </div>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox" name="sunday brunch" />
-            Sunday morning brunch
-        </label>
+        <div class="form-group">
+            <label for="attendees">Who will be attending?</label>
+            <textarea
+                name="attendees"
+                id="attendees"
+                placeholder="List of attendees, including yourself"
+                rows="3"
+                class="form-control"></textarea>
+        </div>
+
+        <label>Which events are you thinking about going to?</label>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" />
+                Friday wine tasting
+            </label>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" name="friday dinner" />
+                Friday dinner
+            </label>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" name="saturday ceremony and dinner" checked disabled />
+                Saturday ceremony, reception, and dinner
+            </label>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" name="sunday brunch" />
+                Sunday morning brunch
+            </label>
+        </div>
     </div>
 
     <div class="form-group">
@@ -64,7 +77,7 @@
             id="message"
             rows="4"
             class="form-control"
-            required></textarea>
+            ></textarea>
     </div>
 
     <button
