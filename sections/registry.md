@@ -43,7 +43,7 @@ Yes, there is plenty of parking onsite, but only guests are supposed to leave th
 
 ### Can we walk from Gardner Ranch at night?
 
-Gardener Ranch's driveway is long and not lit after sundown and the street does not have a crosswalk or sidewalk where you would want them.  We will be thinking through how to get people who are unable to drive back to their hotels in the evenings.  🔦
+Gardener Ranch's driveway is long and not lit after sundown and the street does not have a crosswalk or sidewalk where you would want them.  We will be thinking through how to get people who are unable to drive back to their room in the evenings.  🔦
 
 ### Where is your registry?
 
