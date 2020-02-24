@@ -35,7 +35,7 @@ Everyone we have invited is someone we care about and know personally.  We're ho
 
 ### What should I wear?
 
-The theme is outdoor formal.  We would like you to dress up, but are happy with whatever that means to you.  We'll be outdoor most of the time and the days will be warm and the nights will be chilly.  So, make sure to check the weather before packing.  😎
+The theme is outdoor formal.  We would like you to dress up, but are happy with whatever that means to you.  We'll be outdoor most of the time and the days will be warm and the nights will be chilly.  Make sure to check the weather before packing.  😎
 
 ### Is there parking at Gardener Ranch?
 
