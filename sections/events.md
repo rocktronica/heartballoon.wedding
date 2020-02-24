@@ -10,7 +10,7 @@ overlay:
 ---
 ### **Friday, November 20th**
 
-1:00 pm to 3:00 pm - 🚂Wine Tasting in Carmel Valley?\
+1:00 pm to 3:00 pm - 🚂Wine Tasting?\
 4:30 pm to 5:30 pm - 🧑‍🎓Ceremony Rehearsal\
 5:30pm to 10:00 pm - 🌮Rehearsal Dinner and 💃Fun
 
