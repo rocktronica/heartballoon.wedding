@@ -23,7 +23,7 @@ A hashtag is a way for us to share photos with each other quickly on Instagram. 
 
 ### Can I bring my kids?
 
-Yes!  This is a family friendly event and all kids are invited.  Make sure to let us know if yours will be joining you.  🤸
+Yes!  This is a family friendly event and kids are invited.  Make sure to let us know if yours will be joining you.  🤸
 
 ### Can I bring my dog?
 
