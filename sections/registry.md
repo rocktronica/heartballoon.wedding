@@ -6,9 +6,13 @@ showTitle: true
 showForm: false
 background-image: /static/img/painting-process-1.jpg
 overlay:
-  opacity: 75
   blur: 5
+  opacity: 75
 ---
+### Am I invited to all of the events?
+
+Everyone is invited to all of the events except the rehearsal.  Only the wedding party will be attending the rehearsal, for obvious reasons.  😉
+
 ### What is the wedding hashtag?!
 
 \# ❤️🎈💯
