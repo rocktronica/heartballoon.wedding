@@ -12,7 +12,7 @@ background-image: /static/img/header-background.jpg
 
 ### What's a hashtag?!
 
-A hashtag is a way for us to share photos with each other quickly on Instagram.  Upload your photo to your Instagram account.  Add the hashtag to your photo when you post it.  Search the hashtag to see all the photos with that hashtag.
+A hashtag is a way for us to share photos with each other quickly on Instagram.  Upload your photo to Instagram using your personal account.  Add the hashtag to your photo and post it.  Search the hashtag to see all the photos with that hashtag.
 
 ### Are kids invited?
 
