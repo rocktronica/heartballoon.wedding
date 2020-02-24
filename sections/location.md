@@ -20,4 +20,4 @@ Pst... Gardener Ranch has 2 pools and 1 of them is heated.  👙
 
 ### Weather
 
-![](/static/img/Screen Shot 2020-02-23 at 5.13.28 PM.jpg)
+![](/static/img/weather.jpg)
