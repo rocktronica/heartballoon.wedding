@@ -5,6 +5,9 @@ order: 5
 showTitle: true
 showForm: false
 background-image: /static/img/header-background.jpg
+overlay:
+  opacity: 75
+  blur: 5
 ---
 ### What the wedding hashtag?!
 
