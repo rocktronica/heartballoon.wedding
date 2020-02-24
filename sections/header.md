@@ -6,7 +6,7 @@ showTitle: false
 background-image: /static/img/header-background.jpg
 overlay:
     opacity: 33
-    blur: 1
+    blur: 4
 ---
 # Leia <span>&</span> Tommy
 
@@ -15,4 +15,5 @@ overlay:
 Join us for a weekend of celebration and fun at  
 Gardener Ranch in Carmel Valley, California
 
-Friday, November 20th to Sunday, November 22nd 2020
+Friday, November 20th to Sunday, November 22nd 2020  
+[RSVP](/#rsvp)

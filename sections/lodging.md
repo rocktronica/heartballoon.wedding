@@ -1,7 +1,7 @@
 ---
 title: Lodging
 id: lodging
-order: 4
+order: 3
 showTitle: true
 showForm: false
 background-image: /static/img/blue-sky-tree.jpg

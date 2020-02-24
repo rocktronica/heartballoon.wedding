@@ -1,10 +1,10 @@
 ---
 title: FAQ
 id: faq
-order: 5
+order: 4
 showTitle: true
 showForm: false
-background-image: /static/img/painting-process-1.jpg
+background-image: /static/img/sunrise-gradient.jpg
 overlay:
   blur: 5
   opacity: 75

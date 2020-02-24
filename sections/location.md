@@ -1,9 +1,9 @@
 ---
 title: Location
 id: location
-order: 3
+order: 2
 showTitle: true
-background-image: /static/img/sunrise-gradient.jpg
+background-image: /static/img/painting-process-1.jpg
 overlay:
   blur: 10
   opacity: 75

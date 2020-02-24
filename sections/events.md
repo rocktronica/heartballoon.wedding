@@ -1,9 +1,9 @@
 ---
 title: Events
 id: events
-order: 2
+order: 1
 showTitle: true
-background-image: /static/img/painting-process-2.jpg
+background-image: /static/img/ocean-gradient.jpg
 overlay:
   blur: 5
   opacity: 75
