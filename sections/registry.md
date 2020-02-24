@@ -6,11 +6,11 @@ showTitle: true
 showForm: false
 background-image: /static/img/header-background.jpg
 ---
-### What the wedding hashtag?!
+### What is the wedding hashtag?!
 
 \# ❤️🎈💯
 
-### What's a hashtag?!
+### What is a hashtag?!
 
 A hashtag is a way for us to share photos with each other quickly on Instagram.  Upload your photo to Instagram, add the hashtag, and post it!  Search the hashtag to see all the photos with that hashtag.  #cool
 
