@@ -12,7 +12,7 @@ overlay:
 
 We have **[Gardener Ranch](https://www.gardenerranch.com/weddings.htm)** all to ourselves and we plan to make a weekend retreat out of it!  Gardner Ranch is located about 30 minutes east of Monterey and takes about 2 hours to drive to from San Francisco and 4 hours to drive to from Ventura without traffic.
 
-All of the events will be hosted at Gardener Ranch, except wine tasting.  The wine tasting party will meet at Gardener Ranch and depending on how many people are interested we'll either walk or take a trolly to nearby wine tasting rooms in Carmel Valley.
+All of the events will be hosted at Gardener Ranch, except wine tasting.  The wine tasting party will meet there and depending on how many people are interested we'll either walk or take a trolly to nearby wine tasting rooms in Carmel Valley.
 
 Pst... Gardener Ranch has 2 pools and 1 of them is heated.  👙
 
