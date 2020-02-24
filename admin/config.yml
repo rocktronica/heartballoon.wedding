@@ -64,7 +64,7 @@ collections:
           default: {
               opacity: 33,
               blur: 0,
-          }
+          },
           fields:
               - {
                     label: "Opacity %",
@@ -72,7 +72,7 @@ collections:
                     widget: number,
                     min: 0,
                     max: 100,
-                    default: 33
+                    default: 33,
                 }
               - {
                     label: "Blur",
@@ -80,7 +80,7 @@ collections:
                     widget: number,
                     min: 0,
                     max: 10,
-                    default: 0
+                    default: 0,
                 }
         }
       - {
