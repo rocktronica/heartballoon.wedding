@@ -43,7 +43,9 @@ a {
     color: var(--link);
 }
 
-h2 a {
+h2 a,
+h2 a:hover,
+h2 a[visited]:hover{
     color: inherit;
 }
 
