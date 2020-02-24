@@ -1,6 +1,6 @@
 :root {
   --text: #1d1913;
-  --link: #FF3915;
+  --link: #c0321f;
   --background: #e0ddd6;
 }
 
@@ -51,6 +51,7 @@ a:hover,
 a[visited]:hover {
     text-decoration: none;
     color: inherit;
+    color: var(--link);
 }
 
 img {
