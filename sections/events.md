@@ -5,13 +5,12 @@ order: 2
 showTitle: true
 background-image: /static/img/painting-process-2.jpg
 overlay:
-    opacity: 75
-    blur: 5
+  blur: 5
+  opacity: 75
 ---
 ### **Friday, November 20th**
 
 1:00 pm to 3:00 pm - 🚂Wine Tasting in Carmel Valley?\
-3:00 pm to 4:30 pm - 🏡Gardener Ranch Lodging Check-In\
 4:30 pm to 5:30 pm - 🧑‍🎓Ceremony Rehearsal\
 5:30pm to 10:00 pm - 🌮Rehearsal Dinner and 💃Fun
 
@@ -23,5 +22,4 @@ overlay:
 
 ### **Sunday, November 22nd**
 
-10:00 am - 11:00am - 🥂Brunch\
-12:00 pm - 💁‍♀️Gardener Ranch Lodging Check-Out
+10:00 am - 11:00am - 🥂Brunch
