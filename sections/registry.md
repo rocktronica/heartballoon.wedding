@@ -27,7 +27,7 @@ Yes!  This is a family friendly event and kids are invited.  Make sure to let us
 
 ### Can I bring my dog?
 
-Gardener Ranch is dog friendly, but requires a $250 cleaning fee for any dog that is onsite.  Make sure to let us know if yours will be joining you. 🐶
+Gardener Ranch is dog friendly, but requires a $250 cleaning fee for any dog that is onsite.  Make sure to let us know if you'd like your dog to join you. 🐶
 
 ### Can I bring a date?
 
