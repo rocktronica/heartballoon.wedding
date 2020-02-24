@@ -37,6 +37,10 @@ Everyone we have invited is someone we care about and know personally.  We're ho
 
 The theme is outdoor formal.  We would like you to dress up, but are happy with whatever that means to you.  We'll be outdoor most of the time and the days will be warm and the nights will be chilly.  So, make sure to check the weather before packing.  😎
 
+### Is there parking at Gardener Ranch?
+
+Yes, there is plenty of parking onsite, but only guests are supposed to leave their cars there overnight.
+
 ### Can we walk from Gardner Ranch at night?
 
 We don't encourage it.  The driveway is long and not lit after sundown.  We will be thinking through how to get people who are unable to drive back to their hotels at night.  🔦
