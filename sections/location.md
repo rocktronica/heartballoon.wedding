@@ -10,11 +10,13 @@ overlay:
 ---
 ### Gardener Ranch in Carmel Valley, California
 
-**[Gardener Ranch](https://www.gardenerranch.com/weddings.htm)** is located in Carmel Valley, California.  The location is about 30 minutes east of Monterey and takes about 2 hours to drive from San Francisco and 4 hours to drive from Ventura without traffic.
+We have all of  **[Gardener Ranch](https://www.gardenerranch.com/weddings.htm)** to ourselves and we plan to make a weekend retreat out of it!
+
+Gardener Ranch is located in Carmel Valley, California.  The location is about 30 minutes east of Monterey and takes about 2 hours to drive from San Francisco and 4 hours to drive from Ventura without traffic.
 
 All of the events will be hosted by Gardener Ranch, except wine tasting.  The wine tasting party will meet at Gardener Ranch and depending on how many people are interested we'll either walk or take a trolly to nearby wine tasting rooms in Carmel Valley.
 
-We have all of Gardener Ranch to ourselves and we plan to make a weekend retreat out of it!  Pst...it has two pools and one of them is heated. 👙
+Pst...Gardener Ranch has two pools and one of them is heated. 👙
 
 [![Gardener Ranch: 114 W Carmel Valley Rd, Carmel Valley, CA 93924](/static/img/map-gardener-ranch.png)](https://maps.google.com/maps?ll=36.483721,-121.738113&z=9&t=m&hl=en&gl=US&mapclient=embed&cid=679779841121404225)
 
