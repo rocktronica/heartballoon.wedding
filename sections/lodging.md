@@ -10,7 +10,7 @@ overlay:
   opacity: 75
   blur: 5
 ---
-[![Lodging options](/static/img/map-lodging.png)](https://www.google.com/maps/d/viewer?mid=14q8eMzZWvkXJdxF6iSPgz1wd3Rtvcvw4&hl=en&ll=36.481244851622705%2C-121.73278595&z=15)
+[![Lodging options](/static/img/map-lodging.png)](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=14q8eMzZWvkXJdxF6iSPgz1wd3Rtvcvw4&ll=36.481244851622705%2C-121.73278595&z=16)
 
 ### 1. Gardener Ranch
 
