@@ -14,4 +14,4 @@ overlay:
 
 All of the events will be hosted by Gardener Ranch, except wine tasting.  The wine tasting party will meet at Gardener Ranch and depending on how many people are interested we'll either walk or take a trolly to nearby wine tasting rooms in Carmel Valley.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d410548.99851083296!2d-121.93724009054539!3d36.49586608789347!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808df399e623ac5b%3A0x96f1029f3834541!2sGardener%20Ranch!5e0!3m2!1sen!2sus!4v1582499702620!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+[![Gardener Ranch: 114 W Carmel Valley Rd, Carmel Valley, CA 93924](/static/img/map-gardener-ranch.png)](https://maps.google.com/maps?ll=36.483721,-121.738113&z=9&t=m&hl=en&gl=US&mapclient=embed&cid=679779841121404225)

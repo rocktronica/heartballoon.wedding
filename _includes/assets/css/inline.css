@@ -53,6 +53,10 @@ a[visited]:hover {
     color: inherit;
 }
 
+img {
+    max-width: 100%;
+}
+
 /* LAYOUT */
 
 section {
