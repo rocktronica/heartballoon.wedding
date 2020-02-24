@@ -48,7 +48,7 @@ collections:
       - label: "Overlay"
         name: "overlay"
         widget: "object"
-        required: false,
+        required: false
         fields:
           - label: "Opacity %"
             name: "opacity"
@@ -56,12 +56,14 @@ collections:
             min: 0
             max: 100
             default: 33
+            required: false
           - label: "Blur"
             name: "blur"
             widget: number
             min: 0
             max: 10
             default: 0
+            required: false
       - label: "Body"
         name: "body"
         widget: "markdown"
