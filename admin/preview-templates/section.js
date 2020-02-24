@@ -16,7 +16,7 @@ const Page = createClass({
     const overlayStyle = {
         background: `rgba(255, 255, 255, ${
             (entry.getIn(["data", "overlay", "opacity"], 50) / 100)
-        }%`,
+        }`,
         backdropFilter: `blur(${entry.getIn(["data", "overlay", "blur"], 0)}px)`
     }
 
