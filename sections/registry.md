@@ -1,6 +1,6 @@
 ---
-title: Registry
-id: registry
+title: FAQ
+id: faq
 order: 5
 showTitle: true
 showForm: false
