@@ -14,77 +14,54 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {
-          label: "Title",
-          name: "title", widget: "string",
-          required: true,
-      }
-      - {
-          label: "ID",
-          name: "id",
-          hint: "Used for navigation",
-          widget: "string",
-          required: true,
-        }
-      - {
-          label: "Order",
-          hint: "Display order",
-          name: "order",
-          widget: "number",
-          required: true,
-        }
-      - {
-          label: "Show Title",
-          name: "showTitle",
-          hint: "Whether or not to show title at top of section",
-          widget: "boolean",
-          default: true,
-          required: false,
-        }
-      - {
-          label: "Show Form",
-          name: "showForm",
-          hint: "Whether or not to show RSVP form",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Background Image",
-          name: "background-image",
-          widget: "image",
-          default: "",
-          required: false,
-        }
-      - {
-          label: "Overlay",
-          name: "overlay",
-          widget: "object",
-          required: false,
-          default: {
-              opacity: 33,
-              blur: 0,
-          },
-          fields:
-              - {
-                    label: "Opacity %",
-                    name: "opacity",
-                    widget: number,
-                    min: 0,
-                    max: 100,
-                    default: 33,
-                }
-              - {
-                    label: "Blur",
-                    name: "blur",
-                    widget: number,
-                    min: 0,
-                    max: 10,
-                    default: 0,
-                }
-        }
-      - {
-          label: "Body",
-          name: "body",
-          widget: "markdown"
-        }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "ID"
+        name: "id"
+        hint: "Used for navigation"
+        widget: "string"
+        required: true
+      - label: "Order"
+        hint: "Display order"
+        name: "order"
+        widget: "number"
+        required: true
+      - label: "Show Title"
+        name: "showTitle"
+        hint: "Whether or not to show title at top of section"
+        widget: "boolean"
+        default: true
+        required: false
+      - label: "Show Form"
+        name: "showForm"
+        hint: "Whether or not to show RSVP form"
+        widget: "boolean"
+        default: false
+        required: false
+      - label: "Background Image"
+        name: "background-image"
+        widget: "image"
+        default: ""
+        required: false
+      - label: "Overlay"
+        name: "overlay"
+        widget: "object"
+        required: false,
+        fields:
+          - label: "Opacity %"
+            name: "opacity"
+            widget: number
+            min: 0
+            max: 100
+            default: 33
+          - label: "Blur"
+            name: "blur"
+            widget: number
+            min: 0
+            max: 10
+            default: 0
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
