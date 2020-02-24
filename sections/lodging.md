@@ -1,6 +1,6 @@
 ---
 title: Lodging
-id: Lodging
+id: lodging
 order: 4
 showTitle: true
 showForm: false
