@@ -3,7 +3,7 @@ title: Location
 id: location
 order: 3
 showTitle: true
-background-image: /static/img/blue-sky-tree.jpg
+background-image: /static/img/sunrise-gradient.jpg
 overlay:
   blur: 10
   opacity: 75

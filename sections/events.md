@@ -3,7 +3,7 @@ title: Events
 id: events
 order: 2
 showTitle: true
-background-image: /static/img/IMG_0119.jpg
+background-image: /static/img/painting-process-2.jpg
 overlay:
     opacity: 75
     blur: 5

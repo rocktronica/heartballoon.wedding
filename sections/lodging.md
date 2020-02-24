@@ -4,8 +4,7 @@ id: lodging
 order: 4
 showTitle: true
 showForm: false
-background-image: >-
-  /static/img/ocean-gradient.jpg
+background-image: /static/img/blue-sky-tree.jpg
 overlay:
   opacity: 75
   blur: 5

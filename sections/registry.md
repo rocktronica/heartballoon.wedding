@@ -4,7 +4,10 @@ id: faq
 order: 5
 showTitle: true
 showForm: false
-background-image: /static/img/header-background.jpg
+background-image: /static/img/painting-process-1.jpg
+overlay:
+  opacity: 75
+  blur: 5
 ---
 ### What is the wedding hashtag?!
 
@@ -20,7 +23,7 @@ Yes!  This is a family friendly event and all kids are invited.  Make sure to le
 
 ### Can I bring my dog?
 
-Gardener Ranch is dog friendly, but requires a $250 cleaning fee for any dog that is onsite.  Make sure to let us know if yours will be joining you. 🐶 
+Gardener Ranch is dog friendly, but requires a $250 cleaning fee for any dog that is onsite.  Make sure to let us know if yours will be joining you. 🐶
 
 ### Can I bring a date?
 
