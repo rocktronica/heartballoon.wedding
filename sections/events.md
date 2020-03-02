@@ -12,13 +12,13 @@ overlay:
 
 1:00 pm to 3:00 pm - 🚂Wine Tasting?\
 4:30 pm to 5:30 pm - 🧑‍🎓Ceremony Rehearsal\
-5:30pm to 10:00 pm - 🌮Rehearsal Dinner and 💃Fun
+5:30pm to 10:00 pm - 🌮Dinner & 🕺Fun
 
 ### **Saturday, November 21st**
 
 3:30 pm to 4:00 pm - 💍Ceremony\
-4:00 pm to 5:00 pm - 🎊Reception and 🍾Cocktail Hour\
-5:00 pm to 10:00 pm - 🍕Dinner and 🕺Fun 🌭
+4:00 pm to 5:00 pm - 🎊Reception\
+5:00 pm to 10:00 pm - 🍕Dinner & 💃Fun
 
 ### **Sunday, November 22nd**
 
