@@ -64,6 +64,12 @@ img {
     max-width: 100%;
 }
 
+.emoji {
+    display: inline-block;
+    transform: scale(1.5);
+    margin: 0 .5rem;
+}
+
 /* LAYOUT */
 
 section {

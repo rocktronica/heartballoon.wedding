@@ -6,7 +6,7 @@
 	<body>
 		{% include "components/password-modal.njk" %}
 		<main id="main">
-			{{ layoutContent | safe }}
+			{{ layoutContent | wrapemoji | safe }}
 		</main>
 	</body>
     {% set js %}

@@ -2,6 +2,7 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
+const emojiRegex = require('emoji-regex');
 
 module.exports = function(eleventyConfig) {
   // Date formatting (human readable)
@@ -28,6 +29,10 @@ module.exports = function(eleventyConfig) {
     }
     return minified.code;
   });
+
+  eleventyConfig.addFilter("wrapemoji", input =>
+    input.replace(emojiRegex(), "<span class='emoji'>$&</span>")
+  );
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
