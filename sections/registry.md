@@ -45,6 +45,14 @@ Yes, there is plenty of parking onsite, but only guests are supposed to leave th
 
 Gardener Ranch's driveway is long and not lit after sundown and the street does not have a crosswalk or sidewalk where you would want them.  We will be thinking through how to get people who are unable to drive back to their room in the evenings.  🔦
 
+### **Should we be worried about the coronavirus?**
+
+As of right now, it looks like the precautions that are being taken plus the summer heat will not prevent us from celebrating with you in November.
+
+However, we are taking the situation seriously and are keeping a close eye on recommendations from the city, state, and federal governments.  We want to celebrate with you all, but don't want to put anyone at risk.
+
+We'll keep you updated as we know more.
+
 ### Where is your registry?
 
 We don't have one!  We have enough stuff and we just want you to be there to celebrate with us.  We know we're asking a lot of you to make the trip and stay overnight and we don't need anything more than that.  💪
