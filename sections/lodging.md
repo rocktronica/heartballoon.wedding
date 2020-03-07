@@ -15,9 +15,8 @@ overlay:
 
 The immediate family and wedding party are invited to stay onsite at [Gardener Ranch](https://www.gardenerranch.com/weddings-accommodations.htm).  Once you RSVP, we will reach out to you with more information about lodging.
 
-Friday, November 21st 3:00 pm - 🏡Check-In  
+Friday, November 21st 3:00 pm - 🏡Check-In\
 Sunday, November 23rd 12:00 pm - 👋Check-Out
-
 
 ### 2. Carmel Valley Lodge
 
@@ -25,11 +24,11 @@ For anyone who's not staying onsite, we recommend [Carmel Valley Lodge](https://
 
 ### 3. Hidden Valley Inn
 
-[Hidden Valley Inn](https://visithiddenvalleyinn.com/) is a Bed and Breakfast on the same street as Gardener Ranch with good reviews.  We have not viewed the space personally.
+[Hidden Valley Inn](https://visithiddenvalleyinn.com/) is a Bed and Breakfast on the same street as Gardener Ranch with good reviews.
 
 ### 4. Blue Sky Lodge
 
-[Blue Sky Lodge](https://blueskylodge.com/) is 1 mile down the street from Gardener Ranch.  We have not viewed the space personally.
+[Blue Sky Lodge](https://blueskylodge.com/) is 1 mile down the street from Gardener Ranch.
 
 ### 💡Don't Drink and Drive
 
