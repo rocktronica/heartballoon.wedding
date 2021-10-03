@@ -1,6 +1,6 @@
 ---
-title: Saturday, November 20th
-id: Saturday, November 20th
+title: Events
+id: events
 order: 1
 showTitle: true
 background-image: /static/img/ocean-gradient.jpg
@@ -12,7 +12,7 @@ overlay:
 
 *We're still figuring out how the day will unfold, but we wanted to share our ideas so far. We'll keep this updated as we know more.*
 
-**Here's what we're thinking:**\
+**Saturday, November 20th**\
 12:00 pm—Arrival 🌳\
 1:00 pm—Ceremony 💍\
 2:00 pm—Lunch 🥪\
