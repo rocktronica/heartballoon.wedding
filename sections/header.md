@@ -12,7 +12,7 @@ overlay:
 
 ### ...are *finally* getting married and you're invited!
 
-Join us for an afternoon of celebration at\
+Join us for an afternoon of celebration at the\
 Jean Sweeney Open Space Park in Alameda, California
 
 Saturday, November 20th, 2021\
