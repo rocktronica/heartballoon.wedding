@@ -1,6 +1,6 @@
 ---
-title: Events
-id: events
+title: Saturday, November 20th
+id: Saturday, November 20th
 order: 1
 showTitle: true
 background-image: /static/img/ocean-gradient.jpg
@@ -8,19 +8,12 @@ overlay:
   blur: 5
   opacity: 75
 ---
-*\*This is what we're thinking so far...*
+*We reserved the Jean Sweeney Park Pavilion from 9:00 am to 7:00 pm. You should feel free to arrive as early as you want and enjoy the space!*
 
-### **Friday, November 19th**
+*We're still figuring out how the day will unfold, but we wanted to share our ideas so far.*
 
-5:00pm to 6:30 pm—Dinner 🥘
-
-### **Saturday, November 20th**
-
+**Here's what we're thinking:**\
 12:00 pm—Arrival 🌳\
 1:30 pm—Ceremony 💍\
 2:30 pm—Lunch 🥪\
 7:00 pm—Departure 👋
-
-### **Sunday, November 21st**
-
-10:00 am - 11:30am—Brunch 🍳
