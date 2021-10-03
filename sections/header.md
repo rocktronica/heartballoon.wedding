@@ -5,15 +5,15 @@ order: 0
 showTitle: false
 background-image: /static/img/header-background.jpg
 overlay:
-    opacity: 33
-    blur: 4
+  opacity: 33
+  blur: 4
 ---
 # Leia <span>&</span> Tommy
 
 ### ...are getting married and you're invited!
 
-Join us for a weekend of celebration and fun at  
-Gardener Ranch in Carmel Valley, California
+Join us for an afternoon of celebration at\
+Jean Sweeney Park in Alameda, California
 
-Friday, November 20th to Sunday, November 22nd 2020  
+Saturday, November 20th, 2021\
 [RSVP](/#rsvp)
