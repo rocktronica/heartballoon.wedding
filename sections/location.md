@@ -16,4 +16,4 @@ Alameda, CA 94501
 
 We've reserved the pavilion at Jean Sweeny Park for the day. The pavilion is walking distance from the parking lot and is near a newly built playground. There are two restrooms nearby too.
 
-![]()
+![](/static/img/skitch.png)
