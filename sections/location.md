@@ -4,7 +4,7 @@ id: location
 order: 2
 showTitle: true
 showForm: false
-background-image: /static/img/painting-process-2.jpg
+background-image: /static/img/ocean-gradient.jpg
 overlay:
   opacity: 75
   blur: 5
