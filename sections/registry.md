@@ -23,7 +23,7 @@ This is an outdoor picnic. There is no need for you to dress up—you should fee
 
 ### Can I bring my kids or dog?
 
-Yes! This is a family-friendly event and kids and dogs are welcome. 🤸🐶
+Yes! This is a family-friendly day and kids and dogs are welcome at the park. 🤸🐶
 
 ### Can I bring a date?
 
