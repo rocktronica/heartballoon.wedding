@@ -10,7 +10,7 @@ overlay:
 ---
 # Leia <span>&</span> Tommy
 
-### ...are getting married and you're invited!
+### ...are *finally* getting married and you're invited!
 
 Join us for an afternoon of celebration at\
 Jean Sweeney Park in Alameda, California
