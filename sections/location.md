@@ -19,7 +19,7 @@ We reserved the pavilion at the Jean Sweeny Open Space Park for the day. The pav
 
 ![](/static/img/skitch.png)
 
-![](/static/img/3-pavillion.jpeg)
+![](/static/img/3-pavillion.jpeg "Pavilion")
 
 ![](/static/img/4-gazebo.jpeg)
 
