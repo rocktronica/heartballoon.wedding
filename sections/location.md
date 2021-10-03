@@ -1,7 +1,7 @@
 ---
 title: Location
-id: "10"
-order: 1
+id: location
+order: 2
 showTitle: true
 showForm: false
 background-image: /static/img/painting-process-2.jpg
