@@ -13,9 +13,8 @@ overlay:
 *We're still figuring out how the day will unfold, but we wanted to share our ideas so far. We'll keep this updated as we know more.*
 
 **Saturday, November 20th**\
-12:00 pm—Arrival 🌳\
-1:00 pm—Ceremony 💍\
-2:00 pm—Lunch 🥪\
+Afternoon TBD—Ceremony 💍\
+After Ceremony—Lunch 🥪\
 7:00 pm—Departure 👋
 
 Can't wait to see you!
