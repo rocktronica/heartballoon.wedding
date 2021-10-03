@@ -8,18 +8,19 @@ overlay:
   blur: 5
   opacity: 75
 ---
-### **Friday, November 20th**
+*\*This is what we're thinking so far...*
 
-1:00 pm to 3:00 pm - 🚂Wine Tasting?\
-4:30 pm to 5:30 pm - 🧑‍🎓Ceremony Rehearsal\
-5:30pm to 10:00 pm - 🌮Dinner & 🕺Fun
+### **Friday, November 19th**
 
-### **Saturday, November 21st**
+5:00pm to 6:30 pm—Dinner 🥘
 
-3:30 pm to 4:00 pm - 💍Ceremony\
-4:00 pm to 5:00 pm - 🎊Reception\
-5:00 pm to 10:00 pm - 🍕Dinner & 💃Fun
+### **Saturday, November 20th**
 
-### **Sunday, November 22nd**
+12:00 pm—Arrival 🌳\
+1:30 pm—Ceremony 💍\
+2:30 pm—Lunch 🥪\
+7:00 pm—Departure 👋
 
-10:00 am - 11:00am - 🥂Brunch
+### **Sunday, November 21st**
+
+10:00 am - 11:30am—Brunch 🍳
