@@ -17,3 +17,5 @@ overlay:
 1:00 pm—Ceremony 💍\
 2:00 pm—Lunch 🥪\
 7:00 pm—Departure 👋
+
+Can't wait to see you!
