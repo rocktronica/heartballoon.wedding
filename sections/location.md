@@ -6,8 +6,8 @@ showTitle: true
 showForm: false
 background-image: /static/img/painting-process-1.jpg
 overlay:
-  opacity: 33
-  blur: 0
+  opacity: 75
+  blur: 5
 ---
 ### Jean Sweeny Park in Alameda, California
 
