@@ -26,4 +26,6 @@ We've reserved the pavilion at the Jean Sweeny Open Space Park for the day. The 
 
 ![](/static/img/playground-1.jpeg)
 
-![](/static/img/7-park-playground-parking-lot.png)
+![](/static/img/screen-shot-2021-10-03-at-1.32.16-pm.png)
+
+![](/static/img/screen-shot-2021-10-03-at-1.21.59-pm.png)
