@@ -10,10 +10,10 @@ overlay:
 ---
 *We reserved the Jean Sweeney Park Pavilion from 9:00 am to 7:00 pm. You should feel free to arrive as early as you want and enjoy the space!*
 
-*We're still figuring out how the day will unfold, but we wanted to share our ideas so far.*
+*We're still figuring out how the day will unfold, but we wanted to share our ideas so far. We'll keep this updated as we know more.*
 
 **Here's what we're thinking:**\
 12:00 pm—Arrival 🌳\
-1:30 pm—Ceremony 💍\
-2:30 pm—Lunch 🥪\
+1:00 pm—Ceremony 💍\
+2:00 pm—Lunch 🥪\
 7:00 pm—Departure 👋
