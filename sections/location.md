@@ -15,6 +15,8 @@ Atlantic Avenue, Alameda, CA 94501
 
 We've reserved the pavilion at the Jean Sweeny Open Space Park for the day. The pavilion is walking distance from the parking lot and is near a newly built playground. There are two restrooms nearby too.
 
+[Here's an interactive map](https://www.google.com/maps/d/edit?mid=1ZA5D5Z1y6qPEWDkj9keCCkz03sdEfNdm&usp=sharing).
+
 ![](/static/img/skitch.png)
 
 ![](/static/img/3-pavillion.jpeg)
