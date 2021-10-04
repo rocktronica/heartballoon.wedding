@@ -2,7 +2,7 @@
 title: Leave No Trace
 id: leave no trace
 order: 4
-showTitle: true
+showTitle: false
 showForm: false
 background-image: /static/img/lnt.jpeg
 overlay:
