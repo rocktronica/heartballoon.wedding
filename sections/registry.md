@@ -43,7 +43,7 @@ We're still deciding on food and non-alcoholic drinks. We'll keep this updated a
 
 ### Can I bring food or drinks?
 
-Absolutely! We know some of you are amazing cooks, so feel free to show off your culinary skills. There are also grills in the pavilion. If you choose to bring food or use the grills, make sure to clean up after. 🧑‍🍳
+Absolutely! We know some of you are amazing cooks, so feel free to show off your culinary skills. 🧑‍🍳
 
 ### Where is your registry?
 
