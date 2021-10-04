@@ -18,4 +18,4 @@ After Ceremony—Group Photos 📸\
 After Photos—Lunch TBD 🥪\
 6:00 pm—Sunset and Departure 🌅  👋
 
-Can't wait to see you!
+Can't wait to see you all!
