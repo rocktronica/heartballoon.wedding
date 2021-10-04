@@ -43,7 +43,7 @@ We're still deciding on food and non-alcoholic drinks. We'll keep this updated a
 
 ### Can I bring food or drinks?
 
-Absolutely, bring as much or as little as you'd like! We know some of you are amazing cooks, so feel free to show off your culinary skills too. And, remember, whatever you bring in, make sure you bring out. 🧑‍🍳
+Absolutely, bring as much or as little as you'd like! We know some of you are amazing cooks, so feel free to show off your culinary skills too.🧑‍🍳
 
 ### Should I bring a chair?
 
