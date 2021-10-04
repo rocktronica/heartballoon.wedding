@@ -16,6 +16,6 @@ overlay:
 Afternoon TBD—Ceremony 💍\
 After Ceremony—Photos 📸\
 After Photos—Lunch TBD 🥪\
-6:00 pm—Departure 👋
+6:00 pm—Sunset Departure 🌅  👋
 
 Can't wait to see you!
