@@ -14,7 +14,7 @@ overlay:
 
 **Saturday, November 20th**\
 Afternoon TBD—Ceremony 💍\
-After Ceremony—Photos 📸\
+After Ceremony—Group Photos 📸\
 After Photos—Lunch TBD 🥪\
 6:00 pm—Sunset and Departure 🌅  👋
 
