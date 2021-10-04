@@ -33,7 +33,7 @@ Yes! This is a family-friendly day and kids and dogs are welcome at the park. �
 
 Everyone we have invited is someone we care about and know personally. We're hoping to keep the event small and intimate, but are open to talking with you if you'd like to bring someone that's not on your invitation. 🐙
 
-### Is there parking at Jean Sweeny Park?
+### Is there parking at the park?
 
 Yes, there is plenty of parking within walking distance from the pavilion. 🚗
 
