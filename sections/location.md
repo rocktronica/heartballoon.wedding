@@ -21,7 +21,7 @@ We'll be at the pavilion and gazebo at the Jean Sweeny Open Space Park for the d
 
 ![](/static/img/3-pavillion.jpeg)
 
-![]()
+![](/static/img/4-gazebo.jpeg)
 
 ![](/static/img/6-view-of-park-and-playground.jpeg)
 
