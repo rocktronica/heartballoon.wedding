@@ -4,7 +4,7 @@ id: leave no trace
 order: 4
 showTitle: true
 showForm: false
-background-image: ""
+background-image: /static/img/lnt.jpeg
 overlay:
   opacity: 33
   blur: 0
