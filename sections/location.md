@@ -13,7 +13,7 @@ overlay:
 
 Atlantic Avenue, Alameda, CA 94501
 
-We'll be at the pavilion and gazebo at the Jean Sweeny Open Space Park for the day. The ceremony will be facing the gazebo from the grass and lunch will be at the pavilion. The space is walking distance from the parking lot and is near a nice playground. There are two restrooms nearby too.
+We'll be at the pavilion and gazebo at the Jean Sweeny Open Space Park for the day. The ceremony will be facing the gazebo from the grass and if we do lunch it will be at the pavilion. The space is within walking distance from the parking lot and is near a nice playground—there are also restrooms, trash cans, and grills nearby.
 
 [Here's a map](https://www.google.com/maps/d/edit?mid=1ZA5D5Z1y6qPEWDkj9keCCkz03sdEfNdm&usp=sharing).
 
