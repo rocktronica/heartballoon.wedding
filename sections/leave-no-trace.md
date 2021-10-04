@@ -6,7 +6,7 @@ showTitle: false
 showForm: false
 background-image: /static/img/lnt.jpeg
 overlay:
-  opacity: 33
+  opacity: 0
   blur: 0
 ---
 <br>
