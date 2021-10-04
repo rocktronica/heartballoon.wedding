@@ -17,6 +17,10 @@ overlay:
 
 A hashtag is a way for us to share photos with each other quickly on Instagram. Upload your photo to Instagram, add the hashtag, and post it!  Search the hashtag to see all the photos with that hashtag. # ❤️🎈💯
 
+### Will there be a photographer?
+
+Yes, a professional photographer will be present to take photos throughout the day. She'll be there to capture the ceremony and take group photos of our families and friends, including one big group photo of everyone together after the ceremony. We're also hoping she'll catch a lot of great candid photos too!
+
 ### What should I wear?
 
 This is an outdoor picnic. There is no need for you to dress up—you should feel free to dress however you feel comfortable. In case you were curious, Leia will be wearing a dress, but not a formal wedding gown, and Tommy will likely wear chucks with a suit and no jacket. The day might be warm and the night can get chilly. Make sure to check the weather beforehand. 😎
@@ -33,17 +37,13 @@ Everyone we have invited is someone we care about and know personally. We're hop
 
 Yes, there is plenty of parking within walking distance from the pavilion. 🚗
 
-### Will there be food?
+### Will there be food or drinks?
 
-We think so yes! We're looking into getting sandwiches and salads catered by a local delicatessen. We'll keep this updated as we know more. 🥪
+We're still deciding on food and non-alcoholic drinks. We'll keep this updated as we know more. 🥪 🧃
 
-### Can I bring food?
+### Can I bring food or drinks?
 
 Absolutely! We know some of you are amazing cooks, so feel free to show off your culinary skills. There are also grills in the pavilion. If you choose to bring food or use the grills, make sure to clean up after. 🧑‍🍳
-
-### Will there be alcohol (or drinks)?
-
-We will be providing water and some non-alcoholic drinks. We will not be providing alcohol. If you would like to imbibe, please bring a concealed container. Alcohol is technically not allowed in Alameda parks, but it doesn't seem like it's enforced. 🧃
 
 ### Where is your registry?
 
