@@ -23,7 +23,7 @@ Yes, a professional photographer will be present to take photos throughout the d
 
 ### What should I wear?
 
-This is an outdoor picnic. There is no need for you to dress up—you should feel free to dress however you feel comfortable. In case you were curious, Leia will be wearing a dress, but not a formal wedding gown, and Tommy will likely wear chucks with a suit and no jacket. The day might be warm and the night can get chilly. Make sure to check the weather beforehand. 😎
+This is an outdoor picnic. There is no need for you to dress up—you should feel free to dress however you feel comfortable. In case you were curious, Leia will be wearing a dress, but not a formal wedding gown, and Tommy will likely wear chucks with a suit and no jacket. The day might be warm and the evening can get chilly. Make sure to check the weather beforehand. 😎
 
 ### Can I bring my kids or dog?
 
