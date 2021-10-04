@@ -43,7 +43,11 @@ We're still deciding on food and non-alcoholic drinks. We'll keep this updated a
 
 ### Can I bring food or drinks?
 
-Absolutely! We know some of you are amazing cooks, so feel free to show off your culinary skills. 🧑‍🍳
+Absolutely, bring as much or as little as you'd like! We know some of you are amazing cooks, so feel free to show off your culinary skills too. And, remember, whatever you bring in, make sure you bring out. 🧑‍🍳
+
+### Will there be chairs or tables?
+
+The pavilion has 10 picnic benches where we can sit, eat, and hang out. We won't be providing chairs for the ceremony, which will be facing the gazebo. So, if you'd like to sit on the grass during the quick ceremony, please bring your own chairs or picnic blankets. 🪑
 
 ### Where is your registry?
 
