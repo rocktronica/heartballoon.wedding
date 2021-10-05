@@ -116,7 +116,7 @@ section .inner > p:last-child {
 
 .password-modal {
     display: block;
-    background-color: var(--background);
+    background: var(--background) url("/static/img/header-background.jpg");
     backdrop-filter: blur(10px);
     display: flex;
     align-items: center;
