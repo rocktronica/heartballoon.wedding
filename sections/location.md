@@ -17,18 +17,18 @@ We'll be at the pavilion and gazebo at the Jean Sweeny Open Space Park for the d
 
 [Here's a map](https://www.google.com/maps/d/edit?mid=1ZA5D5Z1y6qPEWDkj9keCCkz03sdEfNdm&usp=sharing).
 
-![](/static/img/skitch.png)
+[![](/static/img/skitch.png)](/static/img/skitch.png)
 
-![](/static/img/3-pavillion.jpeg)
+[![](/static/img/3-pavillion.jpeg)](/static/img/3-pavillion.jpeg)
 
-![](/static/img/4-gazebo.jpeg)
+[![](/static/img/4-gazebo.jpeg)](/static/img/4-gazebo.jpeg)
 
-![](/static/img/6-view-of-park-and-playground.jpeg)
+[![](/static/img/6-view-of-park-and-playground.jpeg)](/static/img/6-view-of-park-and-playground.jpeg)
 
-![](/static/img/playground-1.jpeg)
+[![](/static/img/playground-1.jpeg)](/static/img/playground-1.jpeg)
 
-![](/static/img/park-map.jpg)
+[![](/static/img/park-map.jpg)](/static/img/park-map.jpg)
 
-![](/static/img/screen-shot-2021-10-03-at-1.21.59-pm.png)
+[![](/static/img/screen-shot-2021-10-03-at-1.21.59-pm.png)](/static/img/screen-shot-2021-10-03-at-1.21.59-pm.png)
 
 *We want this day to be remembered for celebration. We know you'll be driving to enjoy it with us, so plan your day so you don't drink and drive.  Be safe!*
