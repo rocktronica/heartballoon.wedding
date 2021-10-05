@@ -10,7 +10,7 @@ if (window.netlifyIdentity) {
 
 (() => {
     // Just trying to make it not seem totally open to the public..
-    const PASSWORD = "rsvp";
+    const PASSWORD = "leia";
 
     const modal = document.getElementById("password_modal");
     const form = document.getElementById("password_form");
