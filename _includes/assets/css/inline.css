@@ -21,6 +21,7 @@ body {
   font-family: "Source Serif Pro", serif;
   color: var(--text);
   background-color: var(--background);
+  overscroll-behavior: none;
 }
 
 p,
