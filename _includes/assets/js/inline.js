@@ -23,10 +23,7 @@ if (window.netlifyIdentity) {
         main.style.display = "block";
     }
 
-    if (
-        localStorage.password === PASSWORD &&
-        location.search !== `?${PASSWORD}`
-    ) {
+    if (location.search == `?${PASSWORD}`) {
         enter();
         return;
     }
@@ -39,8 +36,6 @@ if (window.netlifyIdentity) {
         event.preventDefault();
 
         const value = input.value.trim().toLowerCase();
-
-        localStorage.password = value;
 
         if (value === PASSWORD) {
             enter();
