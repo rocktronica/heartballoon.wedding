@@ -1,12 +1,12 @@
 ---
 title: Leave No Trace
-id: leave no trace
+id: leave-no-trace
 order: 5
 showTitle: false
 showForm: false
-background-image: /static/img/lnt.jpeg
+background-image: /static/img/painting-process-2.jpg
 overlay:
-  opacity: 3
-  blur: 0
+    opacity: 75
+    blur: 5
 ---
-<br>
+![Leave No Trace](/static/img/lnt.png)
