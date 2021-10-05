@@ -159,7 +159,7 @@ section#header .inner {
 
 section#header h1 {
   font-size: 90px;
-  font-size: max(90px, 12vw);
+  font-size: max(90px, 10vw);
   font-weight: var(--thick-font-weight);
   letter-spacing: -0.9rem;
   line-height: 0.55;
@@ -176,7 +176,7 @@ section#header h2 {
 
 section#header p {
     font-size: 18px;
-    font-size: max(18px, 2vw);
+    font-size: max(18px, 1.25vw);
 }
 
 /* RSVP */
