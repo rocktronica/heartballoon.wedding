@@ -36,7 +36,7 @@ collections:
         required: false
       - label: "Show Form"
         name: "showForm"
-        hint: "Whether or not to show RSVP form"
+        hint: "Whether or not to show RSVP form instead of the body"
         widget: "boolean"
         default: false
         required: false

@@ -17,9 +17,10 @@ layout: layouts/base.njk
                     <a href="#{{ section.data.id }}">{{ section.data.title }}</a>
                 </h2>
             {%- endif -%}
-            {{ section.data.layoutContent | safe }}
             {%- if (section.data.showForm) -%}
                 {% include "components/form.njk" %}
+            {%- else -%}
+                {{ section.data.layoutContent | safe }}
             {%- endif -%}
         </div>
     </section>
