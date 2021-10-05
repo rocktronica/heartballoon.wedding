@@ -8,20 +8,22 @@ layout: layouts/base.njk
         background-position: center center;
         background-size: cover;
     ">
-        <div class="inner" style="
-            background: rgba(255, 255, 255, {{ (section.data.overlay.opacity or 50) / 100 }});
-            backdrop-filter: blur({{ section.data.overlay.blur or 0 }}px);
-        ">
-            {%- if (section.data.showTitle) -%}
-                <h2>
-                    <a href="#{{ section.data.id }}">{{ section.data.title }}</a>
-                </h2>
-            {%- endif -%}
-            {%- if (section.data.showForm) -%}
-                {% include "components/form.njk" %}
-            {%- else -%}
-                {{ section.data.layoutContent | safe }}
-            {%- endif -%}
-        </div>
+        {% if section.data.overlay.opacity > 0 %}
+            <div class="inner" style="
+                background: rgba(255, 255, 255, {{ (section.data.overlay.opacity or 50) / 100 }});
+                backdrop-filter: blur({{ section.data.overlay.blur or 0 }}px);
+            ">
+                {%- if (section.data.showTitle) -%}
+                    <h2>
+                        <a href="#{{ section.data.id }}">{{ section.data.title }}</a>
+                    </h2>
+                {%- endif -%}
+                {%- if (section.data.showForm) -%}
+                    {% include "components/form.njk" %}
+                {%- else -%}
+                    {{ section.data.layoutContent | safe }}
+                {%- endif -%}
+            </div>
+        {%- endif -%}
     </section>
 {% endfor %}
