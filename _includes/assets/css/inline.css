@@ -193,8 +193,8 @@ section#events li {
 
 /* MOBILE HACKS */
 
-@media (max-width: 600px) {
-    section:not(#bottom) {
+@media (max-width: 700px) {
+    section {
         min-height: unset;
         overflow: hidden;
         display: block;
