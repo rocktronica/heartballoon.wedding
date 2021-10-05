@@ -1,29 +1,32 @@
 <form name="contact" method="POST" netlify>
-    <label>Will you be joining us?</label>
-    <div class="radio">
-        <label>
-            <input type="radio" class="attending_input" name="attending" value="yes">
-            "Yes!"
-        </label>
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input
+            type="text"
+            name="name"
+            id="name"
+            placeholder="Your first and last name"
+            required="true"
+            class="form-control" />
     </div>
-    <div class="radio">
-        <label>
-            <input type="radio" class="attending_input" name="attending" value="no">
-            "I regret to inform you that I will be unable to attend."
-        </label>
+
+    <div class="form-group">
+        <label>Will you be joining us?</label>
+        <div class="radio">
+            <label>
+                <input type="radio" class="attending_input" name="attending" required="true" value="yes">
+                "Yes!"
+            </label>
+        </div>
+        <div class="radio">
+            <label>
+                <input type="radio" class="attending_input" name="attending" required="true" value="no">
+                "I regret to inform you that I will be unable to attend."
+            </label>
+        </div>
     </div>
 
     <div id="show_only_if_attending">
-        <div class="form-group">
-            <label for="name">Name</label>
-            <input
-                type="text"
-                name="name"
-                id="name"
-                placeholder="Your first and last name"
-                class="form-control" />
-        </div>
-
         <div class="form-group">
             <label for="email">Email</label>
             <input type="email"
