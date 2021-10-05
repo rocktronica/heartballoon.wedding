@@ -1,7 +1,7 @@
 ---
 title: Events
 id: events
-order: 1
+order: 2
 showTitle: true
 background-image: /static/img/ocean-gradient.jpg
 overlay:

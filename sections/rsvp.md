@@ -1,7 +1,7 @@
 ---
 title: RSVP
 id: rsvp
-order: 999
+order: 6
 showTitle: true
 showForm: true
 background-image: /static/img/blue-sky-tree.jpg

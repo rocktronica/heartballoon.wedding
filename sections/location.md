@@ -1,7 +1,7 @@
 ---
 title: Location
 id: location
-order: 2
+order: 3
 showTitle: true
 showForm: false
 background-image: /static/img/painting-process-1.jpg
