@@ -3,7 +3,7 @@ title: Events
 id: events
 order: 2
 showTitle: true
-background-image: /static/img/ocean-gradient.jpg
+background-image: /static/img/blue-sky-tree.jpg
 overlay:
   blur: 5
   opacity: 75
