@@ -19,7 +19,7 @@ A hashtag is a way for us to share photos with each other quickly on Instagram. 
 
 ### Will there be a photographer?
 
-Yes, a professional photographer will be present to take photos throughout the day. She'll be there to capture the ceremony and take group photos, including one big group photo of everyone together after the ceremony. We're also hoping she'll catch a lot of great candid photos too!
+Yes, a professional photographer will be present to take photos throughout the day. She'll be there to capture the ceremony and take group photos, including one big group photo of everyone together after the ceremony. We're also hoping she'll catch a lot of great candid photos too! 📸
 
 ### What should I wear?
 
@@ -39,7 +39,7 @@ Yes, there is plenty of parking within walking distance from the pavilion. 🚗
 
 ### Will there be food or drinks?
 
-We're still deciding on food and non-alcoholic drinks. We'll keep this updated as we know more. 🥪 🧃
+We're still deciding on food and non-alcoholic drinks. We'll keep this updated as we know more. 🥪🧃
 
 ### Can I bring food or drinks?
 
