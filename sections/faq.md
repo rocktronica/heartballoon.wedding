@@ -11,11 +11,11 @@ overlay:
 ---
 ### What is the wedding hashtag?!
 
-\# ❤️🎈💯
+\#❤️🎈💯
 
 ### What is a hashtag?!
 
-A hashtag is a way for us to share photos with each other quickly on Instagram. Upload your photo to Instagram, add the hashtag, and post it!  Search the hashtag to see all the photos with that hashtag. # ❤️🎈💯
+A hashtag is a way for us to share photos with each other quickly on Instagram. Upload your photo to Instagram, add the hashtag, and post it!  Search the hashtag to see all the photos with that hashtag. #❤️🎈💯
 
 ### Will there be a photographer?
 
