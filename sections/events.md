@@ -10,12 +10,11 @@ overlay:
 ---
 *We reserved the Jean Sweeney Open Space Park Pavilion from 9:00 am to 7:00 pm on Saturday, November 20th. You should feel free to arrive as early as you want and enjoy the space!*
 
-*We're still figuring out how the day will unfold, but we wanted to share our ideas so far. We'll keep this updated as we know more.*
-
 **Saturday, November 20th**\
-Afternoon TBD—Ceremony 💍\
+12:00 pm—Guests Arrive 🏞\
+1:00 pm—Quick Ceremony 💍\
 After Ceremony—Group Photos 📸\
-After Photos—Lunch 🥪\
+After Photos—Lunch 🥪 and Desert 🧁\
 6:00 pm—Sunset and Departure 🌅👋
 
 Can't wait to see you all!
