@@ -39,7 +39,7 @@ Yes, there is plenty of parking within walking distance from the pavilion. 🚗
 
 ### Will there be food or drinks?
 
-We'll be catoring sandwiches from a local delecatessan and providing some non-alcoholic drinks. We're also looking into getting desert deleivered. 🥪🧃🧁
+We'll be catoring sandwiches from a local delecatessan and providing some non-alcoholic drinks. We're also looking into getting dessert deleivered. 🥪🧃🧁
 
 ### Can I bring food or drinks?
 

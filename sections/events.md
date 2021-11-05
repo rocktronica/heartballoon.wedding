@@ -14,7 +14,7 @@ overlay:
 12:00 pm—Guests Arrive 🏞\
 1:00 pm—Quick Ceremony 💍\
 After Ceremony—Group Photos 📸\
-After Photos—Lunch 🥪 and Desert 🧁\
+After Photos—Lunch 🥪 and Dessert 🧁\
 6:00 pm—Sunset and Departure 🌅👋
 
 Can't wait to see you all!
