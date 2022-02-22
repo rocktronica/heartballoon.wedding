@@ -11,6 +11,7 @@ if (window.netlifyIdentity) {
 (() => {
     // Just trying to make it not seem totally open to the public..
     const PASSWORD = "leia";
+    const PHOTOS_PASSWORD = "photos";
 
     const modal = document.getElementById("password_modal");
     const form = document.getElementById("password_form");
@@ -21,6 +22,10 @@ if (window.netlifyIdentity) {
     const enter = () => {
         modal.style.display = "none";
         main.style.display = "block";
+    }
+
+    const redirectToPhotos = () => {
+        location.href = "https://doreanrayephotography.pixieset.com/tommyleia/";
     }
 
     if (location.search == `?${PASSWORD}`) {
@@ -39,6 +44,8 @@ if (window.netlifyIdentity) {
 
         if (value === PASSWORD) {
             enter();
+        } else if (value === PHOTOS_PASSWORD) {
+            redirectToPhotos();
         } else {
             modal.classList.add("invalid");
         }
